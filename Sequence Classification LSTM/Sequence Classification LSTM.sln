@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Sequence Classification LSTM", "Sequence Classification LSTM.pyproj", "{6A0294A2-AF59-4F9B-B92C-A4C7BA874B23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A0294A2-AF59-4F9B-B92C-A4C7BA874B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A0294A2-AF59-4F9B-B92C-A4C7BA874B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBB8FE7B-F88C-4DA4-9088-E7A9B789C0C1}
+	EndGlobalSection
+EndGlobal
