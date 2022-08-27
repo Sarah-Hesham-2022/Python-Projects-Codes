@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Heart Disease File Processing", "Heart Disease File Processing.pyproj", "{AA33A6F8-4AB3-404F-B573-DEF73419BFA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA33A6F8-4AB3-404F-B573-DEF73419BFA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA33A6F8-4AB3-404F-B573-DEF73419BFA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3931C48-6269-45EE-9D4F-E8CF717FE927}
+	EndGlobalSection
+EndGlobal
