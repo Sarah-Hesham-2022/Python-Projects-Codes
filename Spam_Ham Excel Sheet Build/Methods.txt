@@ -1,0 +1,17 @@
+1) BOW:
+   
+   Bag of words, the one used in my code, based on creating an array of all unique words in data set
+   and counting number of occurrence of each word in the text, based on its index saved.
+
+2) Term Frequency :
+
+   is defined as the ratio of number of times a word appears in a document to total 
+   number of words in that document.
+
+3) Inverse Document Frequency :
+
+  is defined as log of ratio of number of documents in the corpus to number of documents 
+  in which the word has occurred.
+
+
+4) Use built in python libraries functions
