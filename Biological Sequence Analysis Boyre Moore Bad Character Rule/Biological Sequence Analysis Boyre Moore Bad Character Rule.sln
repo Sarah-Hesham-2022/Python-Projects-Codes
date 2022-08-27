@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Biological Sequence Analysis Boyre Moore Bad Character Rule", "Biological Sequence Analysis Boyre Moore Bad Character Rule.pyproj", "{74EC4CE9-924B-4428-8DB3-BA0EEF205739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74EC4CE9-924B-4428-8DB3-BA0EEF205739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74EC4CE9-924B-4428-8DB3-BA0EEF205739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CEB3596-2BED-4ABD-B7CE-F2E1A8D9BFD7}
+	EndGlobalSection
+EndGlobal
