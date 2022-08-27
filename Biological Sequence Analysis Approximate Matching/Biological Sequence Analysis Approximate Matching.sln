@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Biological Sequence Analysis Approximate Matching", "Biological Sequence Analysis Approximate Matching.pyproj", "{5E13A92E-596A-45C7-BA1F-92251AE6F312}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E13A92E-596A-45C7-BA1F-92251AE6F312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E13A92E-596A-45C7-BA1F-92251AE6F312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E804836B-285B-46DE-8F5B-058B0B3F19DB}
+	EndGlobalSection
+EndGlobal
