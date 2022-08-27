@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DNA LSTM", "DNA LSTM.pyproj", "{2056A88C-20B1-4C54-8923-E6CEC30DFF33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2056A88C-20B1-4C54-8923-E6CEC30DFF33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2056A88C-20B1-4C54-8923-E6CEC30DFF33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {155C796F-8D05-4465-BD73-819828C57FFD}
+	EndGlobalSection
+EndGlobal
